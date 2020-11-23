@@ -1,4 +1,4 @@
-# FLAPPY BIRD IN THE DESERS
+# FLAPPY BIRD IN THE DESERTS
 
 This is a replica of flappy bird game. I use different sprites but the main idea is same.
 
